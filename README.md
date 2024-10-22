@@ -20,9 +20,11 @@
 </div>
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-amaral1&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Rodrigo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-amaral1&theme=blue-green" alt="Rodrigo's Most Languages Usage" />
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-amaral1&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Rodrigo's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-amaral1&theme=blue-green" alt="Rodrigo's Most Languages Usage" />
+  </div>
 </div>
 
 ## 🛠️ Skills
