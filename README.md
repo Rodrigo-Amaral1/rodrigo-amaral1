@@ -57,3 +57,8 @@
 - **COBIT**
 - **PDCA**
 
+## 📜 Certificações
+- [Python Essentials 1](https://www.credly.com/badges/46388094-f85b-431f-aa06-522b6f84deff)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/934cac44-5f8d-4de1-b236-92fa31a5048c)
+- [Cyber Security Essentials](https://www.credly.com/earner/earned/badge/bf9a844a-109d-41c8-b9b0-c6c862516528)
+- [Advanced English](https://drive.google.com/file/d/1i3nt6YwDmL43gfQdMVUV6BPwCLFxQ--x/view)
