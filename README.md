@@ -6,7 +6,7 @@
 
 ## 📫 Connect with Me
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=rodrigo--amaral">
+  <a href="https://www.linkedin.com/rodrigo--amaral">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rodrigo.amaral1708@gmail.com">
