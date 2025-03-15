@@ -17,6 +17,10 @@
   </a>
 </div>
 
+## 📝 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-amaral1&layout=compact&theme=radical" alt="Rodrigo's Most Used Languages" />
 </div>
 
 ## 📊 GitHub Stats
