@@ -39,9 +39,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
-```
-
-Agora o código inclui as linguagens TypeScript, React, Node.js e C#.
 
 ### 💾 Databases
 <p>
