@@ -9,9 +9,6 @@
 🔒 Cybersecurity: Checkpoint, Clarity e atuação como NOC
 🌐 Inglês Nível C2
 
-Atualmente desenvolvo projetos para clientes, estudos e pessoais aplicando Kanban e Scrum, utilizando Python, React e TypeScript.
-
-📩 Contato: rodrigo.amaral1708@gmail.com
 </div>
 
 <p align="center">
