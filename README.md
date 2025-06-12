@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=68F731&random=true&width=435&lines=I'm+Rodrigo+Amaral!;Software+Engineer)](https://git.io/typing-svg)
 
-+ 5 anos de experiência na área de tecnologia, possuindo sólidos conhecimentos em Infraestrutura, Desenvolvimento e Cibersegurança.
-
-💻 Desenvolvimento: Node.js, TypeScript, Nest.js e conhecimentos em Python com ênfase em back-end
-🔧 Infraestrutura: Experiência operacional e de gestão implementando Governança de TI, ITIL V4, PMBOK, COBIT
-🔒 Cybersecurity: Checkpoint, Clarity e atuação como NOC
-🌐 Inglês Nível C2
-
 </div>
 
 <p align="center">
